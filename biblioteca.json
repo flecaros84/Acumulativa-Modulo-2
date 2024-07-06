@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "naturo",
+        "genero": "shonnen",
+        "numero_episodios": "3",
+        "clasificacion": "r"
+    },
+    {
+        "nombre": "saint seiya",
+        "genero": "shonnen",
+        "numero_episodios": "20",
+        "clasificacion": "X"
+    },
+    {
+        "nombre": "Lady Cuky",
+        "genero": "Bella",
+        "numero_episodios": "7",
+        "clasificacion": "F"
+    },
+    {
+        "nombre": "Cosmic Cat",
+        "genero": "Comedia",
+        "numero_episodios": "45",
+        "clasificacion": "F"
+    }
+]
